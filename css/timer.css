@@ -1,0 +1,34 @@
+#timer {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  color: #999;
+  letter-spacing: -1px;
+  
+}
+#timer span {
+  font-size: 60px;
+  color: #333;
+  margin: 0 3px 0 15px;
+}
+#timer span:first-child {
+  margin-left: 0;
+}
+#days{
+border: 2px solid white;
+padding: 5px;
+  }
+  #hours{
+border: 2px solid white;
+padding: 5px;
+  }
+#minutes{
+border: 2px solid white;
+padding: 5px;
+}
+#seconds{
+	border: 2px solid white;
+	padding: 5px;
+}
+#timer span{
+	color: white;
+}
